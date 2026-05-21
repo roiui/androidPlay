@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable back
+string app_name
+string clear
+string config_title
+string configure_prompt
+string file_inaccessible
+string no_image_selected
+string no_video_selected
+string pick_file
+string pick_image
+string pick_video
+string tap_to_play
+style Theme.PlayX
